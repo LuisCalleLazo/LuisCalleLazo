@@ -1,4 +1,4 @@
-## Hola, Me llamo Luis Calle Lazo👋
+## Hola, soy Luis Calle Lazo👋
 
 <!--
 **LuisCalleLazo/LuisCalleLazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
