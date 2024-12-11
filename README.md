@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCalleLazo&theme=tokyonight" alt="Racha de contribuciones" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=LuisCalleLazo&theme=tokyonight" alt="Racha de contribuciones" width="400">
 </p>
