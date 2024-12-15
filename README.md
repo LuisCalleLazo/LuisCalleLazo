@@ -10,34 +10,35 @@ Apasionado por el desarrollo backend, especializado en sistemas escalables y seg
 ### *Frontend:*
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-DD0031?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### *Backend:*
-![ASP.NET CORE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=.net&logoColor=white)
+![NODE JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET CORE](https://img.shields.io/badge/Asp.Net-339933?style=for-the-badge&logo=.net&logoColor=white)
 ![Laravel](https://https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=firebase&logoColor=white)
-![JasperReports](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=https://i.imgur.com/aWu6DEg.png&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-000000?style=for-the-badge&logo=https://i.imgur.com/aWu6DEg.png&logoColor=white)
 
 ### *BD:*
-![SqlServer](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=https://i.imgur.com/PoKSsJV.png&logoColor=white)
-![PostgreSql](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySql](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/SqlServer-000000?style=for-the-badge&logo=https://i.imgur.com/PoKSsJV.png&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Mongo DB](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=redis&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 
 ### *DevOps:*
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DebOps](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=https://i.imgur.com/6xDdS77.png&logoColor=white)
+![Azure DebOps](https://img.shields.io/badge/AzureDebOps-2496ED?style=for-the-badge&logo=https://i.imgur.com/6xDdS77.png&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### *Herramientas:*
-![Github](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=notion&logoColor=white)
-![ClickUp](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=clickup&logoColor=white)
+![Github](https://img.shields.io/badge/Github-2496ED?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-2496ED?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-232F3E?style=for-the-badge&logo=notion&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-2088FF?style=for-the-badge&logo=clickup&logoColor=white)
 
 ---
 
