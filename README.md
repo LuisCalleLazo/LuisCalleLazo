@@ -221,6 +221,4 @@ mindmap
 
 ---
 
-⭐️ From [LuisCalleLazo](https://github.com/LuisCalleLazo) | Made with ❤️ and ☕
-
 </div>
