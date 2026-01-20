@@ -21,7 +21,7 @@
 ```csharp
 public class DeveloperProfile
 {
-    public string Name { get; set; } = "Luis Calle Lazo";
+    public string Name { get; set; } = "Deynar Luis Calle Lazo";
     public string Role { get; set; } = "Backend Developer .NET | Mobile Developer";
     public string Location { get; set; } = "Bolivia 🇧🇴";
     
@@ -201,10 +201,9 @@ mindmap
 
 ¿Tienes un proyecto interesante? ¿Quieres colaborar? ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deynar-luis-calle-lazo-bb946025b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:callelazodeynarluis@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://luiscallelazo.github.io/)
 
 </div>
 
